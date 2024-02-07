@@ -5,7 +5,7 @@ Search and Browse: Explore a vast database of movies, search for specific titles
 
 Getting Started
 To get started with our Movie Recommender System, follow these simple steps:
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/movie-recommender-system.git.
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/AKoul55/Machine-Learning-Projects/tree/main.
 Add a file just executing in directory by executing the following code in .pynb file (juypter notebook)
 Run the Application: Launch the application by executing python app.py and access it through your web browser at http://localhost:8501.
 pickle.dump(similarity,open('similarity.pkl','wb'))
