@@ -9,5 +9,6 @@ Clone the Repository: Clone this repository to your local machine using git clon
 Add a file just executing in directory by executing the following code {pickle.dump(similarity,open('similarity.pkl','wb'))}
 in .pynb file (juypter notebook)
 Run the Application: Launch the application by executing streamlit run app.py and access it through your web browser at http://localhost:8501.
+Screenshot ( https://github.com/AKoul55/Machine-Learning-Projects/blob/main/Screenshot%202024-02-07%20202925.png )
 Feedback
 We value your feedback! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or contact us directly at ayushkoul55@gmail.com.
