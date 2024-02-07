@@ -2,3 +2,12 @@ Welcome to our Movie Recommender System project! This system is designed to help
 Features:
 Multiple Recommendation Algorithms: Our system incorporates various recommendation algorithms, including collaborative filtering, content-based filtering, and hybrid approaches, to ensure diverse and accurate recommendations.
 Search and Browse: Explore a vast database of movies, search for specific titles, and browse through genres, ratings, and release years.
+
+Getting Started
+To get started with our Movie Recommender System, follow these simple steps:
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/movie-recommender-system.git.
+Add a file just executing in directory by executing the following code in .pynb file (juypter notebook)
+Run the Application: Launch the application by executing python app.py and access it through your web browser at http://localhost:8501.
+pickle.dump(similarity,open('similarity.pkl','wb'))
+Feedback
+We value your feedback! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or contact us directly at ayushkoul55@gmail.com.
