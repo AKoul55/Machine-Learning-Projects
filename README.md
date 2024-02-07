@@ -17,4 +17,4 @@ Screenshot ( https://github.com/AKoul55/Machine-Learning-Projects/blob/main/Scre
 
 
 Feedback
-We value your feedback! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or contact us directly at ayushkoul55@gmail.com.
+If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or contact us directly at ayushkoul55@gmail.com.
